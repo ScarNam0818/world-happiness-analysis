@@ -32,6 +32,5 @@ Kaggle の World Happiness Report (2019) を用いて、各国の幸福度（Sco
 ---
 
 ## 連絡先
-- GitHub: https://github.com/あなたのユーザ名
-- Email: your.email@example.com
+- GitHub: https://github.com/ScarNam0818
 
